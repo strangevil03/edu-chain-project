@@ -24,5 +24,7 @@ The vision of this project is to empower educators by providing a platform where
 - Integration with streaming platforms for live content sharing.
 - Ratings and reviews for lesson plans.
 - Support for multiple file formats and delivery mechanisms.
-- Subscription-based models for recurring content.
+- Subscription-based models for recurring contents
+- ![image](https://github.com/user-attachments/assets/0a41dbb8-f8f8-4156-b7bc-8a85edf66a4e)
+
 
